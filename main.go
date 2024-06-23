@@ -1,7 +1,7 @@
 package main
 
 import (
-	demox "github.com/zz1126/testmod/v4/pkg/demo1"
+	demox "github.com/zz1126/testmod/pkg/demo1"
 )
 
 func main() {
